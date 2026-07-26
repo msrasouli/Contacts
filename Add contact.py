@@ -12,4 +12,4 @@ if note == "yes" :
 else : 
     print(f"Name :{name}")
     print(f"lastname: {lastname}")
-    print(f"phone number: {phonenumber}" )
+    print(f"phone number: {phonenumber}")
